@@ -15,4 +15,4 @@ chapter:
     url: https://github.com/cloudmesh-community/book/blob/master/chapters/mapreduce/amazon-emr-1.md
 project:
   - title: AWS VM Management with S3 and object Storage
-    url: https://github.com/cloudmesh/cloudmesh-objstorage/README.md
+    url: https://github.com/cloudmesh/cloudmesh-objstorage/blob/master/README.md
