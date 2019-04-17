@@ -16,3 +16,5 @@ chapter:
 project:
   - title: AWS VM Management with S3 and object Storage
     url: https://github.com/cloudmesh/cloudmesh-objstorage/blob/master/README.md
+    pytest:
+      - TBD
