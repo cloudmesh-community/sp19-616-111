@@ -80,3 +80,17 @@
  - Section: Completed AWS SageMaker and waiting for instructor comments
  - Chapter: Contrubuted to EMR
  
+ #############################################
+# “Week 11: April 8 - April 14”
+#############################################
+ - Project: Intial Review with professor on project cloudmesh-objstorage 
+ - Section: No action required for AWS SageMaker and waiting for instructor comments
+ - Chapter: No action required for - Moved contribusion to book
+ 
+ #############################################
+# “Week 11: April 15 - April 21”
+#############################################
+ - Project: Wrote pytest for project cloudmesh-objstorage and preparing documentations
+ - Section: `No action required`- `Completed Section Contribution` - AWS SageMaker 
+ - Chapter: `No action required`- `Completed Chapter Contribution` - on EMR 
+ 
