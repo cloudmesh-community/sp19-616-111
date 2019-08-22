@@ -16,8 +16,7 @@ from cloudmesh.objstorage.ObjectStorageABC import ObjectStorageABC
 #
 class Provider(ObjectStorageABC):
 
-
-    def __init__(self, service=None, config="~/.cloudmesh/cloudmesh4.yaml"):
+    def __init__(self, service=None, config="~/.cloudmesh/cloudmesh.yaml"):
         super().__init__(service=service, config=config)
         ACCESS_KEY_ID: ""
         SECRET_ACCESS_KEY: ""

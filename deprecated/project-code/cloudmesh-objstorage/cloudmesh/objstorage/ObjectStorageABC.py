@@ -5,7 +5,7 @@ from cloudmesh.management.configuration.config import Config
 # noinspection PyUnusedLocal
 class ObjectStorageABC(metaclass=ABCMeta):
 
-    def __init__(self, cloud=None, config="~/.cloudmesh/cloudmesh4.yaml"):
+    def __init__(self, cloud=None, config="~/.cloudmesh/cloudmesh.yaml"):
         try:
             self.config = Config()
             self.credentials = config['cloudmesh']['objstorage'][cloud][
