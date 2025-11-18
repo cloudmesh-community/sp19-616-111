@@ -17,10 +17,12 @@ chapter:
   - status: 100%
 project:
   - title: AWS VM Management with S3 and object Storage
-    code: https://github.com/cloudmesh/cloudmesh-storage/blob/master/cloudmesh/storage/provider/awsobjectstore
-    url: https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/objectstore.md
+    code: https://github.com/cloudmesh-community/sp19-616-111/tree/master/deprecated/project-code/cloudmesh-objstorage
+    code_deleted: https://github.com/cloudmesh/cloudmesh-storage/blob/master/cloudmesh/storage/provider/awsobjectstore
+    url_deleted: https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/objectstore.md
     document:
-    pytest:
+    pytest_deleted:
       - https://github.com/cloudmesh/cloudmesh-storage/tree/master/tests/test_storage_awsobjectstore.py
   - status: 100%
+  - status_new: deprecated
   
